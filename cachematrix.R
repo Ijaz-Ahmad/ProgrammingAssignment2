@@ -1,14 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This function creates a special "vector" which is actually a list of
+## functions to do.
 
-## Write a short comment describing this function
+## set & get the values of the vector/mean
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Check/get the values of mean else calculate the same via stream function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
